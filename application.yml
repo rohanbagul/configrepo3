@@ -1,0 +1,7 @@
+---
+my:
+  greeting: "Welcome to Great Learning"
+  list:
+    - "apple"
+    - "banana"
+    - "mango"
