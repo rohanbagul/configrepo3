@@ -2,6 +2,7 @@
 my:
   greeting: "Welcome to Great Learning"
   list:
-    - "apple"
-    - "banana"
-    - "mango"
+    values: apple,banana,mango
+    # - "apple"
+    # - "banana"
+    # - "mango"
